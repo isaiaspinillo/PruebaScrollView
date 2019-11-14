@@ -1,0 +1,14 @@
+Index: app/src/main/res/values/colors.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/colors.xml	(date 1573709255000)
++++ app/src/main/res/values/colors.xml	(date 1573709407591)
+@@ -3,5 +3,5 @@
+     <color name="colorPrimary">#8BC34A</color>
+     <color name="colorPrimaryDark">#689F38</color>
+     <color name="colorAccent">#FFC107</color>
+-    //prueba
++
+ </resources>
